@@ -1,7 +1,7 @@
 Will fully update this in time. Just going to leave this here for now.
 
 - 👋 Hi, I’m @LucasCreates
-- 👀 I’m interested in... All things science, with a stronger interest in Physics. Software development.
+- 👀 I’m interested in... All things science and Web Development.
 - 🌱 I’m currently learning... Python, HTML, CSS, JavaSceipt, Jquery, Node
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
